@@ -1,0 +1,124 @@
+## version $VER: JanoPrefs.catalog 1.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_RESETDEFAULT
+Alapértelmezett értékek
+; Default values
+;
+MSG_LASTSAVED
+Utoljára mentett értékek
+; Last saved values
+;
+MSG_TITLEWIN
+Fõ beállítások
+; Main setup
+;
+MSG_TAB
+Tabulátor:
+; Tabulation:
+;
+MSG_SEPARATORS
+Elválasztók:
+; Separators:
+;
+MSG_TXTFONT
+Szöveg betûtípusa:
+; Text font:
+;
+MSG_SCRFONT
+Képernyõ-betûtípus:
+; Screen font:
+;
+MSG_PUBSCREEN
+Képernyõmód:
+; Screen mode:
+;
+MSG_BACKDROP
+Háttér
+; Backdrop
+;
+MSG_LEFTMARGIN
+Bal margó
+; Left margin
+;
+MSG_AUTOINDENT
+Automatikus behúzás
+; Auto indent
+;
+MSG_EXTEND
+Bõvített számbillentyûzet
+; Extended numeric pad
+;
+MSG_PREFSSAVE
+Ment
+; Save
+;
+MSG_USEPREFS
+Használ
+; Use
+;
+MSG_DISCARDPREFS
+Mégsem
+; Cancel
+;
+MSG_USEDEF
+Alapértelmezett használata
+; Use Default
+;
+MSG_CHOOSEIT
+Válassz egyet...
+; Choose one...
+;
+MSG_CLONEPARENT
+Szülõ klónozása
+; Clone parent
+;
+MSG_COLOR_BACK
+Háttér
+; Background
+;
+MSG_COLOR_TEXT
+Normál szöveg
+; Standard text
+;
+MSG_COLOR_FILLTXT
+Kijelölt kitöltõszöveg
+; Selected fill text
+;
+MSG_COLOR_FILLSEL
+Kijelölt szöveg
+; Selected text
+;
+MSG_COLOR_MARGINBACK
+Margó háttere
+; Margin background
+;
+MSG_COLOR_MARGINTXT
+Margó szövege
+; Margin text
+;
+MSG_COLOR_SHINE
+Panel fénye
+; Panel shine
+;
+MSG_COLOR_SHADE
+Panel árnyéka
+; Panel shade
+;
+MSG_COLOR_PANELBACK
+Panel háttere
+; Panel back
+;
+MSG_COLOR_PANELTEXT
+Panel szövege
+; Panel text
+;
+MSG_COLOR_GLYPH
+Panel szimbólum
+; Panel glyph
+;
+MSG_COLOR_MARKEDLINES
+Aktív panel
+; Active panel
+;

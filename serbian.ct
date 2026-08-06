@@ -1,0 +1,124 @@
+## version $VER: JanoPrefs.catalog 1.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_RESETDEFAULT
+Podrazumevane vrednosti
+; Default values
+;
+MSG_LASTSAVED
+Poslednje snimljene vrednosti
+; Last saved values
+;
+MSG_TITLEWIN
+Glavna podeÁavanja
+; Main setup
+;
+MSG_TAB
+Tabulacija:
+; Tabulation:
+;
+MSG_SEPARATORS
+Razdvajaüi:
+; Separators:
+;
+MSG_TXTFONT
+Font teksta:
+; Text font:
+;
+MSG_SCRFONT
+Font ekrana:
+; Screen font:
+;
+MSG_PUBSCREEN
+Mod ekrana:
+; Screen mode:
+;
+MSG_BACKDROP
+Pozadinski prozor
+; Backdrop
+;
+MSG_LEFTMARGIN
+Leva margina
+; Left margin
+;
+MSG_AUTOINDENT
+Automatsko uvlaüenje
+; Auto indent
+;
+MSG_EXTEND
+ProÁireni numeriüki blok
+; Extended numeric pad
+;
+MSG_PREFSSAVE
+Snimi
+; Save
+;
+MSG_USEPREFS
+Koristi
+; Use
+;
+MSG_DISCARDPREFS
+PoniÁti
+; Cancel
+;
+MSG_USEDEF
+Koristi podrazumevano
+; Use Default
+;
+MSG_CHOOSEIT
+Izaberi jedan...
+; Choose one...
+;
+MSG_CLONEPARENT
+Kloniraj matiüni ekran
+; Clone parent
+;
+MSG_COLOR_BACK
+Pozadina
+; Background
+;
+MSG_COLOR_TEXT
+Standardni tekst
+; Standard text
+;
+MSG_COLOR_FILLTXT
+Popuna izabranog teksta
+; Selected fill text
+;
+MSG_COLOR_FILLSEL
+Izabrani tekst
+; Selected text
+;
+MSG_COLOR_MARGINBACK
+Pozadina margine
+; Margin background
+;
+MSG_COLOR_MARGINTXT
+Tekst margine
+; Margin text
+;
+MSG_COLOR_SHINE
+Sjaj panela
+; Panel shine
+;
+MSG_COLOR_SHADE
+Senka panela
+; Panel shade
+;
+MSG_COLOR_PANELBACK
+Pozadina panela
+; Panel back
+;
+MSG_COLOR_PANELTEXT
+Tekst panela
+; Panel text
+;
+MSG_COLOR_GLYPH
+Simbol panela
+; Panel glyph
+;
+MSG_COLOR_MARKEDLINES
+Aktivni panel
+; Active panel
+;
